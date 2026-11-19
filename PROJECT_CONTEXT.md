@@ -82,34 +82,5 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-19 | `31513de` | voice: free Anbu reads every reel, ElevenLabs off and its key removed (owner 19 Nov: no cost for voice) |
-| 2026-11-19 | `7f4dd93` | powercut: notices written |
-| 2026-11-19 | `a73d9f9` | powercut: notices written |
-| 2026-11-19 | `556449d` | comments: normal comments recorded (not e-mailed) |
-| 2026-11-19 | `e611032` | facebook RN-145 |
-| 2026-11-19 | `f1ffc99` | pick: written and posted |
-| 2026-11-19 | `4b95ea7` | powercut: notices written |
-| 2026-11-19 | `a5a00c4` | facebook RN-143 |
-| 2026-11-19 | `b7cad9d` | Worker schedule without rasipalan |
-| 2026-11-19 | `0a18c57` | No rasipalan post (owner 19 Nov: 'that rasipalan news we dont need') |
-| 2026-11-19 | `19b5830` | Same-cut check: the page's own city name never makes two power cuts one (Chennai: 'சென்னை' is in every notice) |
-| 2026-11-19 | `6dcd00c` | The same power cut from a second paper is a duplicate: same cut day + the same areas in the script (owner 19 Nov: 'we need to block like this') |
-| 2026-11-19 | `05262af` | facebook RN-144 |
-| 2026-11-19 | `1d4f617` | powercut: notices written |
-| 2026-11-19 | `bbcf95e` | pick: picked news saved |
-| 2026-11-19 | `3e0c967` | pick: picked news saved |
-| 2026-11-19 | `460001c` | pick: list sent |
-| 2026-11-19 | `33f6322` | powercut: notices written |
-| 2026-11-19 | `9f6335d` | The right day: never 'நாளை' about a day that came; power cuts only before their day, first in the queue; party names spoken letter by letter (owner 19 Nov) |
-| 2026-11-19 | `3d586ad` | powercut: notices written |
-| 2026-11-19 | `b6ab348` | facebook RN-102 |
-| 2026-11-19 | `b2446b6` | facebook RN-140 |
-| 2026-11-19 | `5d1ca91` | pick: written and posted |
-| 2026-11-19 | `33fbd00` | facebook RN-138 |
-| 2026-11-19 | `0743086` | powercut: notices written |
-| 2026-11-19 | `6c695ff` | facebook RN-139 |
-| 2026-11-19 | `f59049f` | comments: normal comments recorded (not e-mailed) |
-| 2026-11-19 | `22b1d9a` | facebook RN-142 |
-| 2026-11-19 | `001a4d6` | pick: picked news saved |
-| 2026-11-19 | `0535fea` | pick: picked news saved |
+| 2026-11-19 | `91c7590` | Salem Minnal: same code as Kovai Minnal f89a2eec (power cuts only) |
 <!-- recent-changes:end -->
