@@ -1,0 +1,11 @@
+node_modules
+reel/models/
+out/
+*_work/
+__pycache__/
+.env
+apps_script/*.local.gs
+.venv/
+kit/package-lock.json
+districts/*/upload/
+.claude/

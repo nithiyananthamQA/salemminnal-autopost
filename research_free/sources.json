@@ -1,0 +1,26 @@
+[
+  {
+    "name": "தினமணி சேலம்",
+    "url": "https://www.dinamani.com/all-editions/edition-salem/salem",
+    "link_regex": "href=\"((?:https://www\\.dinamani\\.com)?/all-editions/edition-salem/salem/\\d{4}/[^\"#?]+)\"",
+    "limit": 40
+  },
+  {
+    "name": "தினகரன் சேலம்",
+    "url": "https://www.dinakaran.com/district/salem/",
+    "link_regex": "href=\"((?:https://www\\.dinakaran\\.com)?/district/(?:salem|kovai)[-_]\\d+[-_]\\d+/?)\"",
+    "limit": 30
+  },
+  {
+    "name": "பாலிமர் சேலம்",
+    "url": "https://www.polimernews.com/tags/salem",
+    "link_regex": "href=\"((?:https://www\\.polimernews\\.com)?/districtnews/[^\"#?]+)\"",
+    "limit": 30
+  },
+  {
+    "name": "இந்து தமிழ் சேலம்",
+    "url": "https://www.hindutamil.in/topic/salem",
+    "link_regex": "href=\"((?:https://www\\.hindutamil\\.in)?/news/[a-z-]+/[^\"#?]{15,})\"",
+    "limit": 30
+  }
+]

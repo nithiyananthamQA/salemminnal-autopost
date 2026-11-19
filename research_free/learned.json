@@ -1,0 +1,67 @@
+{
+ "updated": "2026-11-19T13:42+00:00",
+ "posts_measured": 0,
+ "topic_weight": {
+  "accident": 0.59,
+  "civic": 0.05,
+  "crime": 0.12,
+  "education": -0.5,
+  "jobs": -0.39,
+  "politics": -0.5,
+  "poultry_agri": -0.33,
+  "power_cut": 1.33,
+  "sports_culture": -0.19,
+  "temple": -0.36,
+  "weather": 0.08
+ },
+ "topic_n": {
+  "accident": 25,
+  "civic": 56,
+  "crime": 67,
+  "education": 44,
+  "jobs": 3,
+  "politics": 18,
+  "poultry_agri": 23,
+  "power_cut": 31,
+  "sports_culture": 4,
+  "temple": 24,
+  "weather": 43
+ },
+ "topic_source": {
+  "accident": "reference",
+  "civic": "reference",
+  "crime": "reference",
+  "education": "reference",
+  "jobs": "reference",
+  "politics": "reference",
+  "poultry_agri": "reference",
+  "power_cut": "reference",
+  "sports_culture": "reference",
+  "temple": "reference",
+  "weather": "reference"
+ },
+ "best_hours_ist": [
+  0,
+  4,
+  6,
+  11
+ ],
+ "top_openings": [
+  "🌿 காரமடை பரளிக்காடு: பழங்குடியினரால் இயங்கும் சூழல் சுற்றுலா",
+  "🏆 கோவை நவக்கரையில் ஏ.ஜே.கே. விளையாட்டு திருவிழா 2026: வரும் 16 முதல் 23 வரை",
+  "🔪 மேட்டுப்பாளையத்தில் சமாதானம் செய்தவருக்கு கத்திக்குத்து: இருவர் கைது",
+  "⚡ தடாகம் அருகே சார்ஜர் இணைத்தபோது மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்பு"
+ ],
+ "avg_watch_s": 7.8,
+ "best_topics": [
+  "power_cut",
+  "accident",
+  "crime"
+ ],
+ "weak_topics": [
+  "education",
+  "politics"
+ ],
+ "reference_posts_measured": 405,
+ "reference_updated": "2026-11-19T14:13+05:30"
+}
