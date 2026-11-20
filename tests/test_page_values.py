@@ -44,6 +44,22 @@ class PageValues(unittest.TestCase):
         self.assertTrue(F.same_cut_areas(a_h, a_s, "2026-11-20", "சென்னை: நாளை மின்தடை", "நாளை (நவம்பர் 21) அடையாறு, வேளச்சேரி பகுதிகள்.", "2026-11-20"))
         self.assertFalse(F.same_cut_areas(a_h, a_s, "2026-11-20", "சென்னையில் நாளை மின்தடை", "நாளை (நவம்பர் 21) தாம்பரம், குரோம்பேட்டை பகுதிகளில் மின்தடை.", "2026-11-20"))
 
+    def test_tiruvallur_area_news(self):      # owner 20 Nov: "சென்னையை அடுத்த ஆவடியில்" is Tiruvallur news; Chennai city news is not
+        if "salem" != "tiruvallur":
+            return
+        own = ["ஆவடியில் லாரி மோதி இளைஞர் உயிரிழப்பு", "சென்னையை அடுத்த பூந்தமல்லியில் கடையில் தீ விபத்து",
+               "சென்னை அருகே திருவேற்காட்டில் வீட்டில் திருட்டு", "திருத்தணி முருகன் கோயிலில் கிருத்திகை விழா",
+               "பொன்னேரியில் நாளை மின்தடை", "கும்மிடிப்பூண்டி சிப்காட்டில் தொழிலாளி உயிரிழப்பு",
+               "பழவேற்காடு ஏரியில் படகு கவிழ்ந்து மீனவர் மாயம்", "Avadi: lorry hits bike, youth dies"]
+        for t in own:
+            self.assertTrue(allnews.has_place(t), t)
+            self.assertFalse(allnews.outside_district(t), t)
+            self.assertFalse(allnews.statewide(t), t)
+        for t in ["சென்னையில் நாளை மிக கனமழை: ஆரஞ்ச் அலர்ட்", "வடபழனியில் பிரியாணி கடையில் தீ விபத்து"]:
+            self.assertFalse(allnews.has_place(t), t)
+        self.assertTrue(allnews.statewide("சென்னையில் நாளை மிக கனமழை: ஆரஞ்ச் அலர்ட்"))
+        self.assertTrue(allnews.other_district("தாம்பரத்தில் பேருந்து விபத்து: செங்கல்பட்டு போலீஸ் விசாரணை"))
+
     def test_no_kovai_name_left_in_code(self):
         out = subprocess.run(["grep", "-rIlE", "Kovai Minnal|கோவை மின்னல்|kovai_minnal|KovaiMinnal|kovaiminnal", str(ROOT), "--include=*.py",
                               "--include=*.yml", "--include=*.json", "--exclude-dir=fb_posted", "--exclude-dir=.git", "--exclude-dir=tests"],
