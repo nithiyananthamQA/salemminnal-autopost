@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-20T07:22+05:30",
+ "updated": "2026-11-21T02:10+05:30",
  "posts_measured": 0,
  "topic_weight": {
-  "accident": 0.45,
-  "civic": 0.05,
-  "crime": 0.13,
-  "education": -0.5,
-  "jobs": -0.38,
+  "accident": 0.77,
+  "civic": 0.01,
+  "crime": 0.12,
+  "education": -0.48,
+  "jobs": -0.4,
   "politics": -0.5,
-  "poultry_agri": -0.26,
-  "power_cut": 1.33,
-  "sports_culture": -0.18,
-  "temple": -0.3,
-  "weather": 0.02
+  "poultry_agri": -0.21,
+  "power_cut": 1.38,
+  "sports_culture": -0.29,
+  "temple": -0.31,
+  "weather": 0.01
  },
  "topic_n": {
-  "accident": 27,
-  "civic": 56,
-  "crime": 67,
-  "education": 46,
+  "accident": 30,
+  "civic": 61,
+  "crime": 71,
+  "education": 49,
   "jobs": 3,
-  "politics": 18,
-  "poultry_agri": 23,
-  "power_cut": 31,
-  "sports_culture": 4,
-  "temple": 25,
-  "weather": 44
+  "politics": 20,
+  "poultry_agri": 25,
+  "power_cut": 32,
+  "sports_culture": 5,
+  "temple": 27,
+  "weather": 46
  },
  "topic_source": {
   "accident": "reference",
@@ -43,14 +43,14 @@
  "best_hours_ist": [
   0,
   4,
-  6,
-  11
+  11,
+  9
  ],
  "top_openings": [
-  "🌿 காரமடை பரளிக்காடு: பழங்குடியினரால் இயங்கும் சூழல் சுற்றுலா",
   "🏆 கோவை நவக்கரையில் ஏ.ஜே.கே. விளையாட்டு திருவிழா 2026: வரும் 16 முதல் 23 வரை",
-  "🔪 மேட்டுப்பாளையத்தில் சமாதானம் செய்தவருக்கு கத்திக்குத்து: இருவர் கைது",
-  "⚡ தடாகம் அருகே சார்ஜர் இணைத்தபோது மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்பு"
+  "🌿 காரமடை பரளிக்காடு: பழங்குடியினரால் இயங்கும் சூழல் சுற்றுலா",
+  "⚡ தடாகம் அருகே சார்ஜர் இணைத்தபோது மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்பு",
+  "🔪 மேட்டுப்பாளையத்தில் சமாதானம் செய்தவருக்கு கத்திக்குத்து: இருவர் கைது"
  ],
  "avg_watch_s": 7.8,
  "best_topics": [
@@ -59,9 +59,9 @@
   "crime"
  ],
  "weak_topics": [
-  "education",
-  "politics"
+  "politics",
+  "education"
  ],
- "reference_posts_measured": 414,
- "reference_updated": "2026-11-20T04:29+05:30"
+ "reference_posts_measured": 442,
+ "reference_updated": "2026-11-21T00:26+05:30"
 }
