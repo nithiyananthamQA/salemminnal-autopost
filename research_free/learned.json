@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-21T02:10+05:30",
+ "updated": "2026-11-21T07:13+05:30",
  "posts_measured": 0,
  "topic_weight": {
-  "accident": 0.77,
+  "accident": 0.75,
   "civic": 0.01,
   "crime": 0.12,
   "education": -0.48,
   "jobs": -0.4,
   "politics": -0.5,
   "poultry_agri": -0.21,
-  "power_cut": 1.38,
+  "power_cut": 1.35,
   "sports_culture": -0.29,
   "temple": -0.31,
   "weather": 0.01
@@ -63,5 +63,5 @@
   "education"
  ],
  "reference_posts_measured": 442,
- "reference_updated": "2026-11-21T00:26+05:30"
+ "reference_updated": "2026-11-21T04:30+05:30"
 }
