@@ -1,37 +1,37 @@
 {
- "updated": "2026-11-21T04:30+05:30",
- "posts_measured": 442,
+ "updated": "2026-11-21T23:17+05:30",
+ "posts_measured": 471,
  "topic_weight": {
-  "education": -0.48,
-  "civic": 0.01,
-  "jobs": -0.4,
-  "power_cut": 1.35,
+  "education": -0.5,
+  "civic": 0.05,
+  "jobs": -0.39,
+  "power_cut": 1.29,
   "sports_culture": -0.29,
   "politics": -0.5,
-  "crime": 0.12,
-  "weather": 0.01,
-  "accident": 0.75,
-  "poultry_agri": -0.21,
-  "temple": -0.31
+  "crime": 0.15,
+  "weather": 0.09,
+  "accident": 0.73,
+  "poultry_agri": -0.09,
+  "temple": -0.3
  },
  "topic_n": {
-  "education": 49,
-  "civic": 61,
+  "education": 51,
+  "civic": 67,
   "jobs": 3,
-  "power_cut": 32,
-  "sports_culture": 5,
-  "politics": 20,
-  "crime": 71,
-  "weather": 46,
+  "power_cut": 33,
+  "sports_culture": 7,
+  "politics": 21,
+  "crime": 75,
+  "weather": 47,
   "accident": 30,
-  "poultry_agri": 25,
+  "poultry_agri": 27,
   "temple": 27
  },
  "best_hours_ist": [
   0,
   4,
   11,
-  9
+  6
  ],
  "top_openings": [
   "🏆 கோவை நவக்கரையில் ஏ.ஜே.கே. விளையாட்டு திருவிழா 2026: வரும் 16 முதல் 23 வரை",
@@ -46,7 +46,7 @@
   "crime"
  ],
  "weak_topics": [
-  "politics",
-  "education"
+  "education",
+  "politics"
  ]
 }
