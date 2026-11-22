@@ -1043,9 +1043,36 @@
    "power_cut": false,
    "why": "other district",
    "title": "5 மணி நேரம் மின் தடை: சீரமைக்க மக்கள் வலியுறுத்தல்"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-23-2026-due-to-maintenance-work/articleshow/136071742.cms#district-section": {
+   "at": "2026-11-22T15:50:54.359031+05:30",
+   "power_cut": true,
+   "why": "",
+   "title": "சேலம் மாவட்டத்தில் நாளை (23-11-2026) மின்தடை: சுமங்கலி நகர், சித்தேஸ்வரா நகர், சந்தைப்பேட்டை, புங்கா நகர்"
+  },
+  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-19-11-2026-know-timings-areas-affected-by-power-shutdown-280003#district-section": {
+   "at": "2026-11-22T15:50:54.359031+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "coimbatore power cut: கோவையில் நாளை (19-11-2026) எங்கெல்லாம் கரண்ட் கட் இருக்கு? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
+  },
+  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-17-11-2026-know-timings-areas-affected-by-power-shutdown-279848#district-section": {
+   "at": "2026-11-22T15:50:54.359031+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "coimbatore power cut: கோவையில் நாளை (17-11-2026) எங்கெல்லாம் கரண்ட் இருக்காது? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
   }
  },
- "done": {},
+ "done": {
+  "C0788f77": {
+   "id": "C0788f77",
+   "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-23-2026-due-to-maintenance-work/articleshow/136071742.cms#district-section",
+   "title": "சேலம் மாவட்டத்தில் நாளை (23-11-2026) மின்தடை: சுமங்கலி நகர், சித்தேஸ்வரா நகர், சந்தைப்பேட்டை, புங்கா நகர்",
+   "published": "2026-11-22T15:43:27+05:30",
+   "cut_day": "2026-11-23",
+   "at": "2026-11-22T15:50:54.359031+05:30"
+  }
+ },
  "retried": {},
  "refused": {}
 }
