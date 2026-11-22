@@ -1,2 +1,26 @@
-17:53:56 skipped: could not open=9
-17:53:56 no new power-cut notice
+15:51:38 from_google 'சேலம் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:52:19 from_google 'சேலம் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:52:59 from_google 'நாளைய மின்தடை சேலம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:53:41 from_google 'நாளைய மின்தடை சேலம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:54:25 from_google 'ஆத்தூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:55:05 from_google 'ஆத்தூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:55:44 from_google 'மேட்டூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:56:25 from_google 'மேட்டூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:57:01 from_google 'ஓமலூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:57:47 from_google 'ஓமலூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:58:26 from_google 'எடப்பாடி மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:59:03 from_google 'எடப்பாடி மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+15:59:41 from_google 'ஏற்காடு மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:00:20 from_google 'ஏற்காடு மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:01:02 from_google 'சேலம் மின் நிறுத்தம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:01:41 from_google 'சேலம் மின் நிறுத்தம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:02:21 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:03:03 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:03:47 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:04:27 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:05:09 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:05:50 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:05:51   not this district: coimbatore power cut: கோவையில் நாளை (19-11-2026) எங்கெல்லாம் கரண்ட் கட <https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-19-11-2026-know-timings-areas-affected-by-power-shutdown-280003#district-section>
+16:05:51   not this district: coimbatore power cut: கோவையில் நாளை (17-11-2026) எங்கெல்லாம் கரண்ட் இர <https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-17-11-2026-know-timings-areas-affected-by-power-shutdown-279848#district-section>
+16:05:51 skipped: could not open=2, not this district=2
+16:05:51 POWER CUT 2026-11-23: சேலம் மாவட்டத்தில் நாளை (23-11-2026) மின்தடை: சுமங்கலி நகர், சித்தேஸ்வரா நகர், ச <https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-23-2026-due-to-maintenance-work/articleshow/136071742.cms#district-section>
