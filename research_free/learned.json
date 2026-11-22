@@ -1,30 +1,30 @@
 {
- "updated": "2026-11-22T06:09+05:30",
- "posts_measured": 0,
+ "updated": "2026-11-23T02:10+05:30",
+ "posts_measured": 1,
  "topic_weight": {
-  "accident": 0.78,
-  "civic": 0.05,
-  "crime": 0.17,
-  "education": -0.49,
-  "jobs": -0.37,
-  "politics": -0.5,
-  "poultry_agri": -0.14,
-  "power_cut": 1.33,
-  "sports_culture": -0.26,
-  "temple": -0.28,
-  "weather": 0.2
+  "accident": 0.87,
+  "civic": 0.07,
+  "crime": 0.25,
+  "education": -0.47,
+  "jobs": -0.5,
+  "politics": -0.47,
+  "poultry_agri": -0.05,
+  "power_cut": 1.36,
+  "sports_culture": -0.39,
+  "temple": -0.26,
+  "weather": 0.22
  },
  "topic_n": {
-  "accident": 30,
-  "civic": 68,
-  "crime": 76,
-  "education": 51,
-  "jobs": 3,
-  "politics": 21,
-  "poultry_agri": 28,
-  "power_cut": 33,
-  "sports_culture": 7,
-  "temple": 27,
+  "accident": 31,
+  "civic": 69,
+  "crime": 79,
+  "education": 55,
+  "jobs": 4,
+  "politics": 28,
+  "poultry_agri": 29,
+  "power_cut": 35,
+  "sports_culture": 8,
+  "temple": 29,
   "weather": 48
  },
  "topic_source": {
@@ -43,8 +43,8 @@
  "best_hours_ist": [
   0,
   4,
-  11,
-  9
+  5,
+  11
  ],
  "top_openings": [
   "🏆 கோவை நவக்கரையில் ஏ.ஜே.கே. விளையாட்டு திருவிழா 2026: வரும் 16 முதல் 23 வரை",
@@ -56,12 +56,12 @@
  "best_topics": [
   "power_cut",
   "accident",
-  "weather"
+  "crime"
  ],
  "weak_topics": [
-  "politics",
+  "jobs",
   "education"
  ],
- "reference_posts_measured": 475,
- "reference_updated": "2026-11-22T04:28+05:30"
+ "reference_posts_measured": 510,
+ "reference_updated": "2026-11-22T23:27+05:30"
 }
