@@ -1205,6 +1205,12 @@
    "power_cut": false,
    "why": "not this district",
    "title": "இன்றைய மின் தடை: பெங்களூரு"
+  },
+  "https://www.dinamani.com/all-editions/edition-trichy/pudukottai/2026/Nov/22/power-outage-in-vadakadu-area-tomorrow-4": {
+   "at": "2026-11-23T05:50:57.225262+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "வடகாடு பகுதியில் நாளை மின்தடை"
   }
  },
  "done": {
