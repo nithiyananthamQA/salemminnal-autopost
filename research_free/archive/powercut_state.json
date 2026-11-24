@@ -1,17 +1,5 @@
 {
  "seen": {
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-viluppuram/power-outage-of-tomorrow-on-the-27th/4358958": {
-   "at": "2026-11-20T09:50:58.361773+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "நாளைய மின் நிறுத்தம் 27ம் தேதி"
-  },
-  "https://tamil.abplive.com/news/chennai/chennai-power-cut-areas-21-11-2026-check-power-shutdown-scheduled-on-november-21th-280161#district-section": {
-   "at": "2026-11-20T09:50:58.361773+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "Chennai Power Cut: சனிக்கிழமை அதுவுமா! சென்னையில் நாளை (21-11-2026) முக்கிய பகுதிகளில் பவர் கட்! இதோ லிஸ்ட்!"
-  },
   "https://tamil.abplive.com/news/chennai/chennai-power-cut-areas-21-11-2026-check-power-shutdown-scheduled-on-november-21th-280161/amp#district-section": {
    "at": "2026-11-20T10:50:59.583723+05:30",
    "power_cut": false,
