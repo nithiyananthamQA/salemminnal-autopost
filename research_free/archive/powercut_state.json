@@ -929,6 +929,12 @@
    "power_cut": false,
    "why": "power cut is today (24 Nov) - posted only before its day",
    "title": "சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, சோமம்பட்டி, வண்ணாத்திக்குட்டை, சிங்கபுரம் மங்களபுரம்"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-25-2026-due-to-maintenance-work/articleshow/136116766.cms#district-section": {
+   "at": "2026-11-24T07:50:48.179837+05:30",
+   "power_cut": true,
+   "why": "",
+   "title": "சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வெள்ளாளபட்டி, புலித்திகுட்டை, சி.என்.பாளையம் செந்தரப்பட்டி"
   }
  },
  "done": {
@@ -939,6 +945,14 @@
    "published": "2026-11-22T15:43:27+05:30",
    "cut_day": "2026-11-23",
    "at": "2026-11-22T15:50:54.359031+05:30"
+  },
+  "Cd448b60": {
+   "id": "Cd448b60",
+   "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-25-2026-due-to-maintenance-work/articleshow/136116766.cms#district-section",
+   "title": "சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வெள்ளாளபட்டி, புலித்திகுட்டை, சி.என்.பாளையம் செந்தரப்பட்டி",
+   "published": "2026-11-24T06:24:08+05:30",
+   "cut_day": "2026-11-25",
+   "at": "2026-11-24T07:50:48.179837+05:30"
   }
  },
  "retried": {},
