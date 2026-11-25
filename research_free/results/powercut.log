@@ -1,12 +1,4 @@
-15:51:36 from_google 'சேலம் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-15:52:20 from_google 'சேலம் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-15:53:00 from_google 'நாளைய மின்தடை சேலம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-15:53:41 from_google 'நாளைய மின்தடை சேலம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-15:54:24 from_google 'ஆத்தூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-15:55:08 from_google 'ஆத்தூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-15:55:50 from_google 'மேட்டூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-15:57:36   other district: நாளை மின் தடை: சென்னை <https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/tomorrow-power-outage-chennai/4360075>
-15:57:37   not this district: coimbatore power cut: கோவையில் நாளை (26-11-2026) எந்தெந்த இடங்களில் மி <https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280532#district-section>
-15:57:37   not this district: Trichy Power Cut: திருச்சியில் நாளை (26-11-2026) எங்கெல்லாம் கரண்ட் கட <https://tamil.abplive.com/news/trichy/trichy-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280534#district-section>
-15:57:37 skipped: could not open=9, not this district=2, other district=1
-15:57:37 POWER CUT 2026-11-26: சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 26, 20 <https://tamil.abplive.com/news/salem/salem-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280535#district-section>
+16:53:58   other district: நாளைய (நவ. 26)மின்தடை <https://www.dinamalar.com/news/tamil-nadu-district-news-virudhunagar/power-outage-today-nov-26/4385733>
+16:53:58   not this district: coimbatore power cut: கோவையில் நாளை (26-11-2026) எந்தெந்த இடங்களில் மி <https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280532/amp#district-section>
+16:53:58 skipped: could not open=9, other district=1, not this district=1
+16:53:58 no new power-cut notice
