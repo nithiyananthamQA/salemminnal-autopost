@@ -1,2 +1,24 @@
-07:53:59 skipped: could not open=7
-07:53:59 no new power-cut notice
+08:51:42 from_google 'சேலம் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:52:24 from_google 'சேலம் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:53:06 from_google 'நாளைய மின்தடை சேலம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:53:47 from_google 'நாளைய மின்தடை சேலம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:54:28 from_google 'ஆத்தூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:55:10 from_google 'ஆத்தூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:55:51 from_google 'மேட்டூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:56:33 from_google 'மேட்டூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:57:16 from_google 'ஓமலூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:58:00 from_google 'ஓமலூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:58:39 from_google 'எடப்பாடி மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+08:59:23 from_google 'எடப்பாடி மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:00:03 from_google 'ஏற்காடு மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:00:41 from_google 'ஏற்காடு மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:01:23 from_google 'சேலம் மின் நிறுத்தம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:02:06 from_google 'சேலம் மின் நிறுத்தம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:02:48 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:03:30 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:04:10 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:04:48 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:05:31 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:06:13 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+09:06:14 skipped: could not open=3
+09:06:14 POWER CUT 2026-11-26: சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: நடுவலூர், புனல்வாசல், கிழக்கு ராஜப <https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-26-2026-due-to-maintenance-work/articleshow/136146494.cms#district-section>
