@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-%E0%AE%95%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%BE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%82%E0%AE%BE%E0%AF%8D": {
-   "at": "2026-11-21T20:50:48.905253+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "நாளைய மின்தடை: கானூா்புதூா்"
-  },
   "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/tomorrow-nov-23-power-outage-1-00-am---1-00-pm/4382600": {
    "at": "2026-11-21T21:50:52.927362+05:30",
    "power_cut": false,
@@ -895,7 +889,7 @@
    "title": "நாளை மறுதினம் (26 ம் தேதி)மின் நிறுத்தம்"
   },
   "https://tamil.abplive.com/news/salem/salem-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280535/amp#district-section": {
-   "at": "2026-11-25T19:50:55.406841+05:30",
+   "at": "2026-11-25T20:50:51.757600+05:30",
    "power_cut": true,
    "why": "",
    "title": "சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 26, 2026, வியாழக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 10 மணி முதல் பிற்பகல் 3 மணி வரை மின்சாரம் தடை"
@@ -923,6 +917,18 @@
    "power_cut": false,
    "why": "not this district",
    "title": "தூத்துக்குடியில் நாளை 5 மணி நேரம் மின்தடை ! எந்தெந்தப் பகுதிகள் பாதிக்கப்படும்?"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/tomorrow-nov-23-power-outage-1-00-am---1-00-pm/4382373": {
+   "at": "2026-11-25T20:50:51.757600+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (நவ.23) மின்தடை (காலை 9:00 – மதியம் 2:00 மணி)"
+  },
+  "https://tamil.abplive.com/news/coimbatore/power-outage-in-coimbatore-district-tomorrow-important-announcement-released-by-the-electricity-board-280547/amp#district-section": {
+   "at": "2026-11-25T20:50:51.757600+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "கோவை மாவட்டத்தில் நாளை மின்தடை! மின்வாரியம் வெளியிட்ட முக்கிய அறிவிப்பு!"
   }
  },
  "done": {
