@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.dinamani.com/all-editions/edition-trichy/ariyalur/2026/Nov/19/%E0%AE%85%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%82%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AE%AF%E0%AE%BE%E0%AF%8D%E0%AE%B2%E0%AE%BE%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%8D-%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%88-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88": {
-   "at": "2026-11-21T15:50:52.710556+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "அரியலூா், கயா்லாபாத் பகுதிகளில் நாளை மின்தடை"
-  },
   "https://www.dinamani.com/all-editions/edition-chennai/thirupattur/2026/Nov/20/%E0%AE%87%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-135": {
    "at": "2026-11-21T18:50:47.224275+05:30",
    "power_cut": false,
@@ -851,6 +845,30 @@
    "power_cut": false,
    "why": "other district",
    "title": "கால்நடை மருத்துவ கல்லூரியில் தரம் குறைந்த ஒயர்களால் மின்தடை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/tomorrow-power-outage-chennai/4360075": {
+   "at": "2026-11-25T15:50:50.676708+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மின் தடை: சென்னை"
+  },
+  "https://tamil.abplive.com/news/salem/salem-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280535#district-section": {
+   "at": "2026-11-25T15:50:50.676708+05:30",
+   "power_cut": true,
+   "why": "",
+   "title": "சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 26, 2026, வியாழக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 10 மணி முதல் பிற்பகல் 3 மணி வரை மின்சாரம் தடை"
+  },
+  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280532#district-section": {
+   "at": "2026-11-25T15:50:50.676708+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "coimbatore power cut: கோவையில் நாளை (26-11-2026) எந்தெந்த இடங்களில் மின் தடை? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
+  },
+  "https://tamil.abplive.com/news/trichy/trichy-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280534#district-section": {
+   "at": "2026-11-25T15:50:50.676708+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "Trichy Power Cut: திருச்சியில் நாளை (26-11-2026) எங்கெல்லாம் கரண்ட் கட்? - மின் வாரியம் வெளியிட்ட லிஸ்ட்"
   }
  },
  "done": {
@@ -877,6 +895,14 @@
    "published": "2026-11-25T08:34:13+05:30",
    "cut_day": "2026-11-26",
    "at": "2026-11-25T08:50:58.564548+05:30"
+  },
+  "C16cb837": {
+   "id": "C16cb837",
+   "url": "https://tamil.abplive.com/news/salem/salem-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280535#district-section",
+   "title": "சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 26, 2026, வியாழக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 10 மணி முதல் பிற்பகல் 3 மணி வரை மின்சாரம் தடை",
+   "published": "2026-11-25T15:42:52+05:30",
+   "cut_day": "2026-11-26",
+   "at": "2026-11-25T15:50:50.676708+05:30"
   }
  },
  "retried": {},
