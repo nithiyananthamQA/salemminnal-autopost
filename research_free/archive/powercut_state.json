@@ -883,9 +883,9 @@
    "title": "நாளை மறுதினம் (26 ம் தேதி)மின் நிறுத்தம்"
   },
   "https://tamil.abplive.com/news/salem/salem-power-cut-26-11-2026-know-timings-areas-affected-by-power-shutdown-280535/amp#district-section": {
-   "at": "2026-11-25T21:51:02.529417+05:30",
-   "power_cut": true,
-   "why": "",
+   "at": "2026-11-26T00:55:59.706706+05:30",
+   "power_cut": false,
+   "why": "power cut is today (26 Nov) - posted only before its day",
    "title": "சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 26, 2026, வியாழக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 10 மணி முதல் பிற்பகல் 3 மணி வரை மின்சாரம் தடை"
   },
   "https://tamil.abplive.com/news/coimbatore/power-outage-in-coimbatore-district-tomorrow-important-announcement-released-by-the-electricity-board-280547#district-section": {
@@ -935,6 +935,42 @@
    "power_cut": false,
    "why": "not this district",
    "title": "Tamilnadu Power Cut: தமிழகத்தில் நாளை (31-10-2026) எங்கெல்லாம் முழு நேர மின் தடை ? - மின் வாரியத்தின் முழு லிஸ்ட் இதோ"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/one-more-killed-in-bus-truck-collision/4386375": {
+   "at": "2026-11-26T00:55:59.706706+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "பஸ் மோதிய விபத்து மேலும் ஒருவர் பலி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-killed-in-accident-organs-donated/4386372": {
+   "at": "2026-11-26T00:55:59.706706+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "விபத்தில் தொழிலாளி பலி உடல் உறுப்புகள் தானம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/bihar-man-gets-double-life-for-killing-couple-stealing-10-sovereigns/4386371": {
+   "at": "2026-11-26T00:55:59.706706+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "தம்பதியை கொன்று 10 சவரன் திருட்டு பீஹார் வாலிபருக்கு ‘இரட்டை ஆயுள்’"
+  },
+  "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-26-11-2026-kovai-trichy-power-cut-areas-affected-280556/amp#district-section": {
+   "at": "2026-11-26T00:55:59.706706+05:30",
+   "power_cut": false,
+   "why": "power cut is today (26 Nov) - posted only before its day",
+   "title": "சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: நடுவலூர், புனல்வாசல், கிழக்கு ராஜபாளையம், பின்னனூர்"
+  },
+  "https://tamil.abplive.com/news/chennai/chennai-power-cut-areas-27-11-2026-check-power-shutdown-scheduled-on-november-27th-280565#district-section": {
+   "at": "2026-11-26T00:55:59.706706+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "Chennai Power Cut: சென்னையில் நாளை மறுநாள் எந்தெந்த இடங்களில் மின்தடை! எத்தனை மணிநேரம்! இதோ லிஸ்ட்!"
+  },
+  "https://tamil.abplive.com/news/chennai/chennai-power-cut-areas-27-11-2026-check-power-shutdown-scheduled-on-november-27th-280565/amp#district-section": {
+   "at": "2026-11-26T00:55:59.706706+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "Chennai Power Cut: சென்னையில் நாளை மறுநாள் எந்தெந்த இடங்களில் மின்தடை! எத்தனை மணிநேரம்!"
   }
  },
  "done": {
