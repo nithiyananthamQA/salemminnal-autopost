@@ -158,7 +158,35 @@ e-mail tag SALEM_MINNAL. Never "360".
 - Never "நாளை" alone (owner 22 Nov, a viewer's comment: people watch the reel later). research_free/daydate.py adds the date to every
   நாளை / நாளை மறுநாள் of the finished draft (run.write, after the checks): voice "நாளை, நவம்பர் 23ஆம் தேதி,", caption and headline
   "நாளை (நவம்பர் 23)", screen lines "நாளை (நவ.23)" or only "நவ.23" when the line is full. A நாளை that already has a date is left alone.
+- Power-cut hours for Samayam's state-wide list (owner 23 Nov: "some video missed the timings", "at least try to get or post what we
+  have"). Samayam's body prints no hours, so Salem RN-83, RN-97, RN-241 and Salem RN-2 went out with no time. allnews.district_section,
+  when the list gives no hours, adds: 1) the same areas' hours from the district papers' own notices of that cut day (the power-cut
+  check's written list, saved 20+ minutes before; Dinamani > Dinamalar > Covai Mail; 2+ areas must match as whole names; in a notice
+  with several substations each area takes the hours printed before it) - "X, Y ஆகிய பகுதிகளில் காலை 10 முதல் மதியம் 3 மணி வரை
+  மின்தடை (மின்வாரிய அறிவிப்பு)", no paper's name (the writer never names a source); 2) Samayam's synopsis line ("தமிழகம் முழுவதும்
+  ... காலை 9 மணி முதல் மாலை 4 மணி வரை" - one line for the whole state, not always right: Dinamalar gave 10-3 for RN-241's areas). The
+  synopsis always stays, so the post run's fact check (it re-reads the text) backs a draft written with either time. Any error = the
+  list as before (never stops a power cut).
 
+- The pick ENGINE (owner 24 Nov: "an Instagram monster ... post the reels our users loved to see - watch hours, news topics,
+  everything ... it's an engine", "separate insights for each district"). The reference orders a round by a fixed keyword score
+  (it reads the article body too: an opinion piece with 'டேட்டா திருட்டுக்கும்' scored as crime, 10.0) + a topic weight from
+  shares / saves per reach; 73% of our candidates were topic 'other' (weight 0), so the keyword score decided (5 PM 24 Nov:
+  'மிஸ்டர் ஏஐ.. நீங்க நல்லவரா' picked, two public complaints left out). Ours: poster/insights.py learns each night, per page from
+  its OWN final reels (> 3 days), learned.learn: love = 0.7 log(views / that day's median) + 0.3 log(watch / page median);
+  topic -> area -> city / town tier -> headline words, each fitted on what is left and shrunk by its reel count; hour learned
+  (not used yet). pick.reach_score = 8 x learned.engine_score + 0.5 x the HEADLINE's keyword score - age; power cuts first; extra
+  posts unchanged (replay: 0 and 0); engine not ready (< 30 final reels, e.g. Salem) or any error = the reference's order.
+  Used now: topic + tier. Areas and words are used only from 400 final reels (24 Nov backtest, learn on older reels / score newer:
+  71 reels 0.30 vs old order 0.30, 92: 0.34 vs 0.32, 126: 0.44 vs 0.35 rank correlation with real views; areas / words added nothing
+  yet). Topics: civic (people's problems) split from infra (plans / projects), feature (opinion / explainer, start value -0.3)
+  added, more crime / accident words ('சிறை' alone is not crime). The writer's style examples (top_openings) = most-watched
+  openings against their day, never a POCSO / sexual / suicide / death story. Replay of the last 28 rounds: 21 pick differently.
+
+- Writer "THE TWIST FIRST" (owner 24 Nov: "some of the news got viral ... post the same way ... if it looks funny inside but dont
+  hurt the people involved"): rules.md - the article's unusual detail leads sentence 1 and the caption hook; a light tone only
+  where nobody is hurt, dead, a victim, a minor or arrested; never mocking any person. Dry-written on RN-70 / RN-81: 3 Claude calls
+  each (as usual), no new check problems; the hook kept the twist on RN-81, RN-70's lost 'கள்ளத்தனமாக' (effect small so far).
 ## 6. Chennai Minnal = a copy of this repo (17 Nov, the reference's way)
 
 - Chennai's own places (owner 18 Nov: "chennai is the most populated city ... add even more small areas", suburbs yes):
