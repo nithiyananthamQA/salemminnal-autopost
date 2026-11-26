@@ -995,6 +995,12 @@
    "power_cut": false,
    "why": "other district",
    "title": "இன்றைய மின் தடை: திருவள்ளூர்"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-27-2026-due-to-maintenance-work/articleshow/136183551.cms#district-section": {
+   "at": "2026-11-26T13:50:56.028775+05:30",
+   "power_cut": true,
+   "why": "",
+   "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: மின் தடை பகுதிகள்:- காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை:சத்திரப்பட்டி, நரசிங்கபுரம், சாணிப்பட்டி, சேர்வைக்காரன்பட்டி"
   }
  },
  "done": {
@@ -1029,8 +1035,21 @@
    "published": "2026-11-25T15:42:52+05:30",
    "cut_day": "2026-11-26",
    "at": "2026-11-25T15:50:50.676708+05:30"
+  },
+  "C160966f": {
+   "id": "C160966f",
+   "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-27-2026-due-to-maintenance-work/articleshow/136183551.cms#district-section",
+   "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: மின் தடை பகுதிகள்:- காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை:சத்திரப்பட்டி, நரசிங்கபுரம், சாணிப்பட்டி, சேர்வைக்காரன்பட்டி",
+   "published": "2026-11-26T13:31:05+05:30",
+   "cut_day": "2026-11-27",
+   "at": "2026-11-26T13:50:56.028775+05:30"
   }
  },
  "retried": {},
- "refused": {}
+ "refused": {
+  "C160966f": {
+   "why": "not filed: duplicate after write",
+   "at": "2026-11-26T13:58:51.963444+05:30"
+  }
+ }
 }
