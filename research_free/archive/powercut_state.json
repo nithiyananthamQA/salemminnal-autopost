@@ -1001,6 +1001,18 @@
    "power_cut": true,
    "why": "",
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: மின் தடை பகுதிகள்:- காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை:சத்திரப்பட்டி, நரசிங்கபுரம், சாணிப்பட்டி, சேர்வைக்காரன்பட்டி"
+  },
+  "https://tamil.abplive.com/news/salem/salem-power-cut-27-11-2026-know-timings-areas-affected-by-power-shutdown-280608#district-section": {
+   "at": "2026-11-26T14:06:07.628760+05:30",
+   "power_cut": true,
+   "why": "",
+   "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 27, 2026, வெள்ளிக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை செ"
+  },
+  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-27-11-2026-know-timings-areas-affected-by-power-shutdown-280606#district-section": {
+   "at": "2026-11-26T14:06:07.628760+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "coimbatore power cut: கோவையில் நாளை (27-11-2026) எத்தனை இடங்களில் மின் தடை ? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
   }
  },
  "done": {
@@ -1043,6 +1055,14 @@
    "published": "2026-11-26T13:31:05+05:30",
    "cut_day": "2026-11-27",
    "at": "2026-11-26T13:50:56.028775+05:30"
+  },
+  "Ccfef655": {
+   "id": "Ccfef655",
+   "url": "https://tamil.abplive.com/news/salem/salem-power-cut-27-11-2026-know-timings-areas-affected-by-power-shutdown-280608#district-section",
+   "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 27, 2026, வெள்ளிக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை செ",
+   "published": "2026-11-26T13:59:45+05:30",
+   "cut_day": "2026-11-27",
+   "at": "2026-11-26T14:06:07.628760+05:30"
   }
  },
  "retried": {},
@@ -1050,6 +1070,10 @@
   "C160966f": {
    "why": "not filed: duplicate after write",
    "at": "2026-11-26T13:58:51.963444+05:30"
+  },
+  "Ccfef655": {
+   "why": "not filed: duplicate after write",
+   "at": "2026-11-26T14:13:40.586386+05:30"
   }
  }
 }
