@@ -1,23 +1,5 @@
 {
  "seen": {
-  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-23-2026-due-to-maintenance-work/articleshow/136071742.cms#district-section": {
-   "at": "2026-11-22T15:50:54.359031+05:30",
-   "power_cut": true,
-   "why": "",
-   "title": "சேலம் மாவட்டத்தில் நாளை (23-11-2026) மின்தடை: சுமங்கலி நகர், சித்தேஸ்வரா நகர், சந்தைப்பேட்டை, புங்கா நகர்"
-  },
-  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-19-11-2026-know-timings-areas-affected-by-power-shutdown-280003#district-section": {
-   "at": "2026-11-22T15:50:54.359031+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "coimbatore power cut: கோவையில் நாளை (19-11-2026) எங்கெல்லாம் கரண்ட் கட் இருக்கு? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
-  },
-  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-17-11-2026-know-timings-areas-affected-by-power-shutdown-279848#district-section": {
-   "at": "2026-11-22T15:50:54.359031+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "coimbatore power cut: கோவையில் நாளை (17-11-2026) எங்கெல்லாம் கரண்ட் இருக்காது? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
-  },
   "https://www.dinamalar.com/news/tamil-nadu-district-news-theni/problem-in-setting-up-sub-station-in-chinnamanur-power-cuts-continue-as-municipality-persists/4383077": {
    "at": "2026-11-22T16:50:50.699593+05:30",
    "power_cut": false,
@@ -1009,21 +991,13 @@
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: மின் தடை பகுதிகள்:- காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை:சத்திரப்பட்டி, நரசிங்கபுரம், சாணிப்பட்டி, சேர்வைக்காரன்பட்டி"
   },
   "https://tamil.abplive.com/news/salem/salem-power-cut-27-11-2026-know-timings-areas-affected-by-power-shutdown-280608#district-section": {
-   "at": "2026-11-26T14:50:52.206170+05:30",
+   "at": "2026-11-26T15:50:53.386253+05:30",
    "power_cut": true,
    "why": "",
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 27, 2026, வெள்ளிக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை செ"
   }
  },
  "done": {
-  "C0788f77": {
-   "id": "C0788f77",
-   "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-23-2026-due-to-maintenance-work/articleshow/136071742.cms#district-section",
-   "title": "சேலம் மாவட்டத்தில் நாளை (23-11-2026) மின்தடை: சுமங்கலி நகர், சித்தேஸ்வரா நகர், சந்தைப்பேட்டை, புங்கா நகர்",
-   "published": "2026-11-22T15:43:27+05:30",
-   "cut_day": "2026-11-23",
-   "at": "2026-11-22T15:50:54.359031+05:30"
-  },
   "Cd448b60": {
    "id": "Cd448b60",
    "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-25-2026-due-to-maintenance-work/articleshow/136116766.cms#district-section",
@@ -1062,7 +1036,7 @@
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 27, 2026, வெள்ளிக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை செ",
    "published": "2026-11-26T13:59:45+05:30",
    "cut_day": "2026-11-27",
-   "at": "2026-11-26T14:50:52.206170+05:30"
+   "at": "2026-11-26T15:50:53.386253+05:30"
   }
  },
  "retried": {
@@ -1071,8 +1045,8 @@
    "at": "2026-11-26T14:50:52.206170+05:30"
   },
   "Ccfef655": {
-   "n": 1,
-   "at": "2026-11-26T14:50:52.206170+05:30"
+   "n": 2,
+   "at": "2026-11-26T15:50:53.386253+05:30"
   }
  },
  "refused": {
