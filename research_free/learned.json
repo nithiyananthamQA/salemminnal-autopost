@@ -1,35 +1,35 @@
 {
- "updated": "2026-11-26T08:32+05:30",
- "posts_measured": 3,
+ "updated": "2026-11-27T02:10+05:30",
+ "posts_measured": 4,
  "engine": {
   "reels": 1,
   "ready": false
  },
  "topic_weight": {
-  "accident": 0.69,
-  "civic": 0.01,
-  "crime": 0.3,
-  "education": -0.49,
-  "jobs": -0.39,
+  "accident": 0.48,
+  "civic": -0.1,
+  "crime": 0.5,
+  "education": -0.46,
+  "jobs": -0.37,
   "politics": -0.5,
-  "poultry_agri": -0.09,
+  "poultry_agri": -0.06,
   "power_cut": 1.5,
-  "sports_culture": -0.43,
-  "temple": -0.23,
-  "weather": 0.01
+  "sports_culture": -0.41,
+  "temple": -0.21,
+  "weather": -0.08
  },
  "topic_n": {
-  "accident": 37,
-  "civic": 76,
-  "crime": 89,
-  "education": 62,
+  "accident": 39,
+  "civic": 80,
+  "crime": 91,
+  "education": 64,
   "jobs": 5,
-  "politics": 30,
-  "poultry_agri": 37,
-  "power_cut": 43,
+  "politics": 31,
+  "poultry_agri": 41,
+  "power_cut": 46,
   "sports_culture": 12,
-  "temple": 35,
-  "weather": 50
+  "temple": 36,
+  "weather": 52
  },
  "topic_source": {
   "accident": "reference",
@@ -53,19 +53,19 @@
  "top_openings": [
   "🏆 கோவை நவக்கரையில் ஏ.ஜே.கே. விளையாட்டு திருவிழா 2026: வரும் 16 முதல் 23 வரை",
   "🌿 காரமடை பரளிக்காடு: பழங்குடியினரால் இயங்கும் சூழல் சுற்றுலா",
-  "⚡ தடாகம் அருகே சார்ஜர் இணைத்தபோது மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்பு",
-  "🔪 மேட்டுப்பாளையத்தில் சமாதானம் செய்தவருக்கு கத்திக்குத்து: இருவர் கைது"
+  "🔪 போத்தனூரில் கஞ்சா விற்ற 3 இளைஞர்கள் கைது: 1 கிலோ 300 கிராம் பறிமுதல்",
+  "⚡ தடாகம் அருகே சார்ஜர் இணைத்தபோது மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்பு"
  ],
- "avg_watch_s": 7.9,
+ "avg_watch_s": 7.8,
  "best_topics": [
   "power_cut",
-  "accident",
-  "crime"
+  "crime",
+  "accident"
  ],
  "weak_topics": [
   "politics",
   "education"
  ],
- "reference_posts_measured": 594,
- "reference_updated": "2026-11-26T08:26+05:30"
+ "reference_posts_measured": 620,
+ "reference_updated": "2026-11-27T01:14+05:30"
 }
