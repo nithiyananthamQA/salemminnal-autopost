@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-kallakurichi/tomorrow-power-outage-24th/4383120": {
-   "at": "2026-11-22T21:50:48.131397+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "நாளை மறுநாள்(24ம் தேதி) மின் நிறுத்தம்:"
-  },
   "https://www.dinamani.com/all-editions/edition-coimbatore/coimbatore/2026/Nov/22/power-outage-tomorrow-rs-puram": {
    "at": "2026-11-23T03:23:50.545188+05:30",
    "power_cut": false,
@@ -997,7 +991,7 @@
    "title": "நாளை மறுதினம்(நவ.28) மின்தடை: கடலூர்"
   },
   "https://tamil.abplive.com/news/salem/salem-power-cut-27-11-2026-know-timings-areas-affected-by-power-shutdown-280608/amp#district-section": {
-   "at": "2026-11-26T20:50:56.662878+05:30",
+   "at": "2026-11-26T21:50:56.622421+05:30",
    "power_cut": true,
    "why": "",
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 27, 2026, வெள்ளிக்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை செ"
@@ -1021,7 +1015,7 @@
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: சத்திரப்பட்டி, நரசிங்கபுரம், சாணிப்பட்டி, சேர்வைக்காரன்பட்டி"
   },
   "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-27-11-2026-kovai-salem-power-cut-areas-affected-280621/amp#district-section": {
-   "at": "2026-11-26T20:50:56.662878+05:30",
+   "at": "2026-11-26T21:50:56.622421+05:30",
    "power_cut": true,
    "why": "",
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: சத்திரப்பட்டி, நரசிங்கபுரம், சாணிப்பட்டி, சேர்வைக்காரன்பட்டி"
