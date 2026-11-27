@@ -1,41 +1,57 @@
 {
- "updated": "2026-11-27T08:32+05:30",
- "posts_measured": 626,
+ "updated": "2026-11-28T00:26+05:30",
+ "posts_measured": 650,
  "topic_weight": {
-  "education": -0.49,
-  "civic": -0.14,
+  "education": -0.46,
+  "civic": 0.0,
   "jobs": -0.5,
-  "power_cut": 1.42,
-  "sports_culture": -0.3,
-  "politics": -0.49,
-  "crime": 0.36,
-  "weather": -0.13,
-  "accident": 0.56,
-  "poultry_agri": -0.11,
-  "temple": -0.23
+  "power_cut": 1.5,
+  "sports_culture": -0.39,
+  "politics": -0.43,
+  "crime": 0.44,
+  "weather": -0.06,
+  "accident": 0.76,
+  "poultry_agri": -0.08,
+  "temple": -0.16
  },
+ "topic_10k_share": {
+  "education": 0.05,
+  "civic": 0.06,
+  "jobs": 0.0,
+  "power_cut": 0.24,
+  "sports_culture": 0.0,
+  "politics": 0.0,
+  "crime": 0.17,
+  "weather": 0.02,
+  "accident": 0.13,
+  "poultry_agri": 0.04,
+  "temple": 0.1
+ },
+ "urgent_topics": [
+  "power_cut"
+ ],
  "topic_n": {
-  "education": 65,
+  "education": 66,
   "civic": 80,
-  "jobs": 6,
+  "jobs": 7,
   "power_cut": 46,
-  "sports_culture": 13,
-  "politics": 31,
-  "crime": 92,
-  "weather": 52,
+  "sports_culture": 14,
+  "politics": 33,
+  "crime": 96,
+  "weather": 54,
   "accident": 39,
-  "poultry_agri": 41,
-  "temple": 37
+  "poultry_agri": 45,
+  "temple": 39
  },
  "best_hours_ist": [
   0,
   4,
-  10,
-  5
+  5,
+  10
  ],
  "top_openings": [
-  "🔪 போத்தனூரில் கஞ்சா விற்ற 3 இளைஞர்கள் கைது: 1 கிலோ 300 கிராம் பறிமுதல்",
   "🏆 கோவை நவக்கரையில் ஏ.ஜே.கே. விளையாட்டு திருவிழா 2026: வரும் 16 முதல் 23 வரை",
+  "🔪 போத்தனூரில் கஞ்சா விற்ற 3 இளைஞர்கள் கைது: 1 கிலோ 300 கிராம் பறிமுதல்",
   "🌿 காரமடை பரளிக்காடு: பழங்குடியினரால் இயங்கும் சூழல் சுற்றுலா",
   "⚡ தடாகம் அருகே சார்ஜர் இணைத்தபோது மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்பு"
  ],
