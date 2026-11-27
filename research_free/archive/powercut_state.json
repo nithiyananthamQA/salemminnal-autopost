@@ -631,9 +631,9 @@
    "title": "கோவை மாவட்டத்தில் நாளை மின்தடை! மின்வாரியம் வெளியிட்ட முக்கிய அறிவிப்பு!"
   },
   "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-26-11-2026-kovai-trichy-power-cut-areas-affected-280556#district-section": {
-   "at": "2026-11-25T21:51:02.529417+05:30",
+   "at": "2026-11-27T08:50:59.069402+05:30",
    "power_cut": true,
-   "why": "",
+   "why": "cut day 2026-11-26 has passed",
    "title": "சேலம் மாவட்டத்தில் நாளை (26-11-2026) மின்தடை: நடுவலூர், புனல்வாசல், கிழக்கு ராஜபாளையம், பின்னனூர்"
   },
   "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-31-10-2026-kovai-trichy-power-cut-areas-affected-278571#district-section": {
@@ -1055,6 +1055,12 @@
    "power_cut": false,
    "why": "other district",
    "title": "நாளை மறுதினம் மின்தடை (28ம் தேதி)"
+  },
+  "https://www.dinamani.com/all-editions/edition-madurai/madurai/2026/Nov/26/power-cut-in-kochadai-area-tomorrow": {
+   "at": "2026-11-27T08:50:59.069402+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "கோச்சடை பகுதியில் நாளை மின் தடை"
   }
  },
  "done": {
