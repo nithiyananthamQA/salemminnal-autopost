@@ -877,9 +877,9 @@
    "title": "உத்திரமேரூரில் நாளை மறுதினம் (நவ.28) மின்தடை"
   },
   "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-27-11-2026-kovai-salem-power-cut-areas-affected-280621#district-section": {
-   "at": "2026-11-26T17:50:52.141371+05:30",
-   "power_cut": true,
-   "why": "",
+   "at": "2026-11-27T07:50:55.644331+05:30",
+   "power_cut": false,
+   "why": "power cut is today (27 Nov) - posted only before its day",
    "title": "சேலம் மாவட்டத்தில் நாளை (27-11-2026) மின்தடை: சத்திரப்பட்டி, நரசிங்கபுரம், சாணிப்பட்டி, சேர்வைக்காரன்பட்டி"
   },
   "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-27-11-2026-kovai-salem-power-cut-areas-affected-280621/amp#district-section": {
@@ -1043,6 +1043,18 @@
    "power_cut": false,
    "why": "not this district",
    "title": "Power Cut News: Latest News, Photos, Videos & Live Updates | ABP Nadu"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/tomorrow-resistor-28th/4386995": {
+   "at": "2026-11-27T07:50:55.644331+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் மின்தடை (28ம் தேதி)"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-coimbatore/tomorrow-resistor-28th/4386995": {
+   "at": "2026-11-27T07:50:55.644331+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் மின்தடை (28ம் தேதி)"
   }
  },
  "done": {
