@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-25-2026-due-to-maintenance-work/articleshow/136116766.cms#district-section": {
-   "at": "2026-11-24T07:50:48.179837+05:30",
-   "power_cut": true,
-   "why": "",
-   "title": "சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வெள்ளாளபட்டி, புலித்திகுட்டை, சி.என்.பாளையம் செந்தரப்பட்டி"
-  },
   "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-coimbatore/tomorrow-barrier-coimbatore/4383203": {
    "at": "2026-11-24T11:50:45.749269+05:30",
    "power_cut": false,
@@ -947,17 +941,87 @@
    "power_cut": false,
    "why": "other district",
    "title": "இன்றைய மின் தடை: காஞ்சிபுரம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/book-fair-begins-7000-students-to-visit-daily/4388251": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்க்க ஏற்பாடு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/take-a-rain-free-drizzle/4388255": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "மழையின்றி கருகும் மானாவாரி கொள்ளு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/car-catches-fire-on-highway/4388248": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "நெடுஞ்சாலையில் தீப்பற்றி எரிந்த கார்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/dmk-celebrates-udhayanidhis-birthday/4388261": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "உதயநிதி பிறந்தநாள் தி.மு.க., கொண்டாட்டம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/bomb-disposal-drill/4388260": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "வெடிகுண்டு செயலிழப்பு ஒத்திகை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-electrocuted-to-death/4388259": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "மின்சாரம் பாய்ந்து தொழிலாளி பலி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-crushed-to-death-by-bus/4388258": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "பஸ் சக்கரத்தில் சிக்கி பெண் சாவு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kumbhabhishekam-at-subramanya-temple-tomorrow/4388257": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "சுப்ரமணியர் கோவிலில் நாளை கும்பாபிஷேகம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/snake-capture/4388256": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "மலைப்பாம்பு பிடிப்பு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/survey-of-crow-movements/4388254": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "காகங்கள் நடமாட்டம் ஆய்வு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/crop-land-turning-into-industries-irks-farmers-at-grievance-meeting/4388253": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "தொழிற்கூடங்களாக மாறும் விளைநிலம் குறைதீர் கூட்டத்தில் விவசாயி வேதனை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/free-cows-for-women/4388252": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "பெண்களுக்கு இலவசமாக மாடுகள்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/water-level-rises-to-2878-cusecs/4388250": {
+   "at": "2026-11-28T07:50:54.965531+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "நீர்வரத்து 2,878 கன அடியாக உயர்வு"
   }
  },
  "done": {
-  "Cd448b60": {
-   "id": "Cd448b60",
-   "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-25-2026-due-to-maintenance-work/articleshow/136116766.cms#district-section",
-   "title": "சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வெள்ளாளபட்டி, புலித்திகுட்டை, சி.என்.பாளையம் செந்தரப்பட்டி",
-   "published": "2026-11-24T06:24:08+05:30",
-   "cut_day": "2026-11-25",
-   "at": "2026-11-24T07:50:48.179837+05:30"
-  },
   "Cae667b8": {
    "id": "Cae667b8",
    "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-26-2026-due-to-maintenance-work/articleshow/136146494.cms#district-section",
