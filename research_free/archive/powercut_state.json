@@ -1,23 +1,5 @@
 {
  "seen": {
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/tomorrow-nov-26-power-outage-morning-1000---1-00-pm/4384936": {
-   "at": "2026-11-24T18:50:48.658443+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "நாளை மறுதினம் (நவ.26) மின்தடை(காலை 10:00 – மதியம் 3:00 மணி)"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-theni/tomorrow-nov-26-power-outage/4384856": {
-   "at": "2026-11-24T18:50:48.658443+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "நாளை மறுதினம் (நவ.26) மின்தடை"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-sivagangai/tomorrow-y-nov-26-resistor/4384883": {
-   "at": "2026-11-24T18:50:48.658443+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "நாளை மறுதினம் (நவ., 26) மின்தடை"
-  },
   "https://www.dinamalar.com/news/tamil-nadu-district-news-virudhunagar/tomorrow-power-outage-morning-1000-hours-to-1-00-pm/4384955": {
    "at": "2026-11-24T19:50:56.787381+05:30",
    "power_cut": false,
@@ -1016,6 +998,18 @@
   },
   "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/tomorrow-barrier-coimbatore/4388426": {
    "at": "2026-11-28T17:50:50.299598+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம்(நவ.30) மின்தடை: கோயம்புத்தூர்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-madurai/todays-power-outage-canceled/4381364": {
+   "at": "2026-11-28T18:50:53.994331+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "இன்றைய மின்தடை ரத்து"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-coimbatore/tomorrow-barrier-coimbatore/4388426": {
+   "at": "2026-11-28T18:50:53.994331+05:30",
    "power_cut": false,
    "why": "other district",
    "title": "நாளை மறுதினம்(நவ.30) மின்தடை: கோயம்புத்தூர்"
