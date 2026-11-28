@@ -1,23 +1,5 @@
 {
  "seen": {
-  "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/23/%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%BE%E0%AF%8D-%E0%AE%A8%E0%AE%95%E0%AE%BE%E0%AF%8D": {
-   "at": "2026-11-24T06:50:55.353142+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "நாளைய மின்தடை: குமாா் நகா்"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/joyers-26-arts-festival-at-senthil-public-school/4384794": {
-   "at": "2026-11-24T06:50:55.353142+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "செந்தில் பப்ளிக் பள்ளியில் ஜாய்வர்ஸ் - 26 கலைவிழா"
-  },
-  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-24-2026-due-to-maintenance-work/articleshow/136116571.cms#district-section": {
-   "at": "2026-11-24T06:50:55.353142+05:30",
-   "power_cut": false,
-   "why": "power cut is today (24 Nov) - posted only before its day",
-   "title": "சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, சோமம்பட்டி, வண்ணாத்திக்குட்டை, சிங்கபுரம் மங்களபுரம்"
-  },
   "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-25-2026-due-to-maintenance-work/articleshow/136116766.cms#district-section": {
    "at": "2026-11-24T07:50:48.179837+05:30",
    "power_cut": true,
@@ -899,6 +881,72 @@
    "power_cut": false,
    "why": "not a power cut",
    "title": "காவலாளிகளை தாக்கிய புதுகை வாலிபர் கைது"
+  },
+  "https://www.dinamani.com/all-editions/edition-madurai/ramanathapuram/2026/Nov/27/power-outage-in-the-paramakudi-area-today-2": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "பரமக்குடி பகுதியில் இன்று மின் தடை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/villagers-block-road-in-navalur-as-part-of-rural-work-programme/4388246": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "ஊரக வேலை திட்டத்தில் குளறுபடி நாவலூர் மக்கள் சாலை மறியல்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/teenager-escapes-from-hospital/4388245": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "மருத்துவமனையில் இருந்து சில்மிஷ வாலிபர் தப்பி ஓட்டம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/tipper-truck-with-6-units-of-soil-seized/4388244": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "6 யுனிட் மண்ணுடன் டிப்பர் லாரி பறிமுதல்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/real-estate-worker-killed-as-truck-rams-into-bike/4388243": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "பைக் மீது லாரி மோதல் ரியல் எஸ்டேட் ஊழியர் பலி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/retired-conductor-dies-in-accident/4388242": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "ஓய்வு கண்டக்டர் விபத்தில் சாவு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/100-people-interviewed-for-the-job-of-a-public-prosecutor/4388241": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "அரசு வக்கீல் பணிக்கு 100 பேரிடம் நேர்காணல்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/case-filed-against--for-accepting-bribe/4388240": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "லஞ்சம் கேட்டது உறுதி எஸ்.எஸ்.ஐ., மீது வழக்கு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/gundas-to-the-rowdy-involved-in-human-trafficking/4388239": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "ஆள்கடத்தலில் ஈடுபட்ட ரவுடிக்கு குண்டாஸ்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/hyderabad-kollam-special-trains-announced-for-sabarimala-season/4388238": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "சபரிமலை சீசன் ஹைதராபாத் - கொல்லம் சிறப்பு ரயில்கள் அறிவிப்பு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-kancheepuram/todays-power-outage-kanchipuram/4387509": {
+   "at": "2026-11-28T06:50:50.557510+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "இன்றைய மின் தடை: காஞ்சிபுரம்"
   }
  },
  "done": {
